@@ -1,0 +1,90 @@
+[
+  {
+    "id": "lemony-chickpeas",
+    "title": "Lemony chickpeas & greens",
+    "time": "35 min",
+    "serves": 4,
+    "description": "A bright, brothy bowl with soft chickpeas, wilted greens and enough lemon to wake everything up.",
+    "imageKey": "chickpeas",
+    "imageAlt": "A bowl of chickpea stew with greens, tomatoes and crusty bread",
+    "ingredients": ["2 tbsp olive oil", "1 small yellow onion, finely chopped", "3 garlic cloves, thinly sliced", "1 tsp ground cumin", "2 cans (15 oz each) chickpeas, drained", "3 cups vegetable broth", "1 bunch lacinato kale, ribs removed and leaves torn", "1 lemon, zest and juice", "½ cup plain Greek yogurt", "Crusty bread, for serving"],
+    "steps": ["Warm the olive oil in a Dutch oven over medium heat. Add the onion and a good pinch of salt; cook until soft and sweet, about 7 minutes.", "Stir in the garlic and cumin. Cook for 30 seconds, just until fragrant, then add the chickpeas and broth.", "Bring to a gentle simmer. Lightly mash about a quarter of the chickpeas against the side of the pot to make the broth creamy. Simmer for 15 minutes.", "Fold in the kale and cook until tender, 3–4 minutes. Stir through the lemon zest and juice, then taste and season with salt and pepper.", "Ladle into warm bowls. Finish with a spoonful of yogurt, a little olive oil and bread for dragging through the broth."]
+  },
+  {
+    "id": "tomato-butter-rigatoni",
+    "title": "Tomato butter rigatoni",
+    "time": "25 min",
+    "serves": 4,
+    "description": "The weeknight red-sauce pasta that asks very little of you and gives quite a lot back.",
+    "imageKey": "pasta",
+    "imageAlt": "Rigatoni in glossy tomato sauce with parmesan and basil",
+    "ingredients": ["12 oz rigatoni", "3 tbsp unsalted butter", "3 garlic cloves, finely grated", "1 can (28 oz) whole peeled tomatoes", "½ tsp red pepper flakes", "1 tsp fine sea salt, plus more for pasta water", "½ cup finely grated Parmesan, plus more to serve", "A handful of fresh basil leaves"],
+    "steps": ["Set a large pot of well-salted water over high heat. Crush the tomatoes by hand in a bowl, catching all their juices.", "Melt the butter in a wide skillet over medium-low heat. Add the garlic and pepper flakes and cook gently for 1 minute.", "Pour in the tomatoes and salt. Simmer, stirring occasionally, until glossy and slightly thickened, 15–18 minutes.", "Cook the rigatoni until just shy of al dente. Scoop out 1 cup of pasta water, then transfer the pasta straight into the sauce.", "Toss over medium heat, adding splashes of pasta water until the sauce clings to every noodle. Stir in Parmesan and torn basil; serve with more cheese."]
+  },
+  {
+    "id": "lemon-roast-chicken",
+    "title": "Lemon-roast chicken & potatoes",
+    "time": "1 hr",
+    "serves": 4,
+    "description": "Crisp-edged potatoes, jammy lemon and tender chicken, all from one very dependable tray.",
+    "imageKey": "chicken",
+    "imageAlt": "Roast chicken thighs with lemon, rosemary and crisp potatoes",
+    "ingredients": ["6 bone-in, skin-on chicken thighs", "1½ lb baby potatoes, halved", "2 lemons, one sliced and one juiced", "4 tbsp olive oil", "4 garlic cloves, lightly crushed", "2 tsp chopped fresh rosemary", "1 tsp smoked paprika", "1 tsp kosher salt", "½ tsp black pepper", "A handful of parsley, chopped"],
+    "steps": ["Heat the oven to 425°F (220°C). Pat the chicken very dry; this is the small thing that makes the skin crisp.", "Toss the potatoes, sliced lemon and garlic in a large roasting pan with 2 tablespoons oil and half the salt. Spread into an even layer.", "Mix the remaining oil with rosemary, paprika, pepper and lemon juice. Rub over the chicken, including beneath the skin where you can.", "Nestle the thighs skin-side up among the potatoes. Roast for 40–45 minutes, turning the potatoes once, until the skin is deep gold and the thickest thigh reaches 165°F.", "Rest for 8 minutes. Scatter with parsley and spoon the lemony pan juices over everything before bringing the pan to the table."]
+  },
+  {
+    "id": "greens-and-beans",
+    "title": "Garlicky greens & white beans",
+    "time": "20 min",
+    "serves": 3,
+    "description": "A pantry supper with tender beans, garlicky greens and a crunchy, lemony breadcrumb top.",
+    "imageKey": "chickpeas",
+    "imageAlt": "A cozy bowl of greens and beans finished with herbs",
+    "ingredients": ["3 tbsp olive oil, divided", "½ cup coarse fresh breadcrumbs", "2 garlic cloves, thinly sliced", "½ tsp Aleppo pepper or red pepper flakes", "2 cans (15 oz each) cannellini beans, drained", "½ cup vegetable broth", "1 bunch Swiss chard, stems sliced and leaves torn", "1 lemon, zest and juice", "¼ cup grated pecorino", "Salt and black pepper"],
+    "steps": ["Heat 1 tablespoon oil in a skillet. Toast the breadcrumbs with a pinch of salt, stirring often, until crisp and golden. Tip into a bowl.", "Add the remaining oil to the skillet. Cook the garlic and pepper flakes over medium-low heat until fragrant, about 1 minute.", "Add the beans and broth. Bring to a simmer and gently crush some beans with the back of a spoon.", "Stir in the chard stems and cook 3 minutes, then add the leaves in handfuls. Cook until wilted and tender, another 3 minutes.", "Finish with lemon zest and juice, pecorino and plenty of black pepper. Spoon into bowls and shower with the toasted crumbs."]
+  },
+  {
+    "id": "shakshuka",
+    "title": "Sunday-morning shakshuka",
+    "time": "40 min",
+    "serves": 4,
+    "description": "Eggs tucked into a warmly spiced tomato-pepper sauce. Better eaten straight from the pan.",
+    "imageKey": "pasta",
+    "imageAlt": "A rustic tomato dish with herbs and warm spices",
+    "ingredients": ["2 tbsp olive oil", "1 red bell pepper, thinly sliced", "1 small onion, thinly sliced", "3 garlic cloves, chopped", "1 tsp ground cumin", "1 tsp sweet paprika", "¼ tsp cayenne", "1 can (28 oz) crushed tomatoes", "4 large eggs", "¼ cup crumbled feta", "Fresh cilantro and warm flatbread"],
+    "steps": ["Warm the oil in a 10-inch skillet over medium heat. Add pepper and onion with a pinch of salt; cook until soft, about 8 minutes.", "Stir in the garlic, cumin, paprika and cayenne. Cook until fragrant, 30 seconds.", "Add the tomatoes and simmer gently until thick and spoonable, 15–20 minutes. Taste and add salt as needed.", "Make four little wells in the sauce. Crack an egg into each, cover the pan and cook until whites are set but yolks are still soft, 5–8 minutes.", "Scatter with feta and cilantro. Carry the pan to the table with plenty of warm flatbread."]
+  },
+  {
+    "id": "salmon-rice",
+    "title": "Crispy salmon rice bowls",
+    "time": "30 min",
+    "serves": 4,
+    "description": "Warm rice, flaky salmon and a quick soy-lime dressing for the kind of bowl you make on repeat.",
+    "imageKey": "chicken",
+    "imageAlt": "A golden, crisp-edged salmon supper with fresh lemon",
+    "ingredients": ["1¼ lb skinless salmon, cut into 1-inch cubes", "3 tbsp soy sauce", "1 tbsp honey", "1 tbsp toasted sesame oil", "1 tbsp neutral oil", "1½ cups jasmine rice, rinsed", "1 cucumber, thinly sliced", "1 ripe avocado, sliced", "2 scallions, thinly sliced", "1 lime, cut into wedges", "Toasted sesame seeds"],
+    "steps": ["Cook the rice according to the package directions. Keep covered while you cook the salmon.", "Whisk soy sauce, honey and sesame oil in a small bowl. Pat the salmon dry and toss with half the mixture.", "Heat neutral oil in a nonstick skillet over medium-high heat. Add salmon in one layer and sear for 2 minutes per side until golden and just cooked through.", "Spoon rice into bowls. Add cucumber and avocado, then pile the salmon on top.", "Drizzle with the remaining dressing and finish with scallions, sesame seeds and a squeeze of lime."]
+  },
+  {
+    "id": "olive-oil-cake",
+    "title": "Orange olive-oil cake",
+    "time": "1 hr 10 min",
+    "serves": 8,
+    "description": "Tender, fragrant and even better the next morning. A cake for afternoon coffee or no occasion at all.",
+    "imageKey": "pasta",
+    "imageAlt": "A warm, homey table setting with a golden baked treat",
+    "ingredients": ["1¾ cups all-purpose flour", "1 cup granulated sugar", "2 tsp baking powder", "½ tsp fine salt", "3 large eggs, at room temperature", "¾ cup fruity extra-virgin olive oil", "¾ cup whole milk", "Zest of 2 oranges", "¼ cup fresh orange juice", "1 tsp vanilla extract", "Powdered sugar, for serving"],
+    "steps": ["Heat oven to 350°F (175°C). Oil a 9-inch round cake pan and line the bottom with parchment.", "Whisk flour, sugar, baking powder and salt in a large bowl. In another bowl, whisk the eggs, olive oil, milk, orange zest and juice, and vanilla.", "Pour the wet ingredients into the dry. Whisk just until no dry streaks remain; the batter will be quite loose.", "Pour into the pan and bake for 45–55 minutes, until golden and a tester comes out with only a few crumbs.", "Cool in the pan for 15 minutes, then turn onto a rack. Dust with powdered sugar once fully cool."]
+  },
+  {
+    "id": "potato-leek-soup",
+    "title": "Potato & leek soup with chives",
+    "time": "45 min",
+    "serves": 4,
+    "description": "Soft leeks, buttery potatoes and a little cream make a bowl that feels like a deep breath.",
+    "imageKey": "chickpeas",
+    "imageAlt": "A comforting bowl of creamy soup with fresh herbs",
+    "ingredients": ["3 tbsp unsalted butter", "3 large leeks, white and pale green parts sliced and washed well", "1½ lb Yukon Gold potatoes, peeled and diced", "5 cups vegetable or chicken broth", "1 bay leaf", "¾ tsp fine sea salt", "½ cup heavy cream", "2 tbsp chopped chives", "Black pepper and toasted bread, to serve"],
+    "steps": ["Melt the butter in a heavy pot over medium-low heat. Add the leeks and salt; cook slowly until soft but not browned, about 10 minutes.", "Add the potatoes, broth and bay leaf. Bring to a boil, then lower the heat and simmer until the potatoes are tender, 18–20 minutes.", "Remove the bay leaf. Blend about half of the soup until smooth, then stir it back into the pot for a pleasantly chunky texture.", "Stir in the cream and warm gently without boiling. Taste and adjust the salt and pepper.", "Ladle into bowls and finish with chives. Serve with toasted bread and a little extra black pepper."]
+  }
+]
